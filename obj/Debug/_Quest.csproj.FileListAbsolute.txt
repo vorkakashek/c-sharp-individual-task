@@ -1,0 +1,10 @@
+C:\Users\Администратор\Desktop\project\_Quest\bin\Debug\_Quest.exe.config
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.Form1.resources
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.Properties.Resources.resources
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\project\_Quest\bin\Debug\_Quest.exe
+C:\Users\Администратор\Desktop\project\_Quest\bin\Debug\_Quest.pdb
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.exe
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.pdb
+C:\Users\Администратор\Desktop\project\_Quest\obj\Debug\_Quest.Game.resources
